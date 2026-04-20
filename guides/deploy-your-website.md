@@ -12,10 +12,10 @@ This guide walks you through how to ask Claude Code to deploy your site. You don
 
 ## What You'll Need Before You Start
 
-1. **Your finished HTML file(s)** — the landing page you built in the previous lesson
+1. **Your finished HTML file(s)** — the landing page you built in the previous lesson; just download it from your chat
 2. **A domain name** — `yourbusiness.com` or similar. If you don't have one yet, grab one at Namecheap, Squarespace Domains, or NameBright ($10–15/year)
 3. **A Vultr account** — this is where your site will live. Sign up at vultr.com. A basic server runs about $6/month and can host multiple websites from one server
-4. **Claude Code installed on your computer** — if you don't have it yet, there's a setup guide in the collabAI member library
+4. **Claude Desktop installed on your computer** — so you can access the Claude Code tab
 
 That's everything. No coding experience required.
 
