@@ -95,4 +95,4 @@ Today, you describe what you want, and your AI partner handles it. That's not a 
 
 Go get your site live.
 
-— Jake, Developer at KAC Marketing
+— Jake, Developer at collabAI
